@@ -1,0 +1,8 @@
+cat
+catalogue
+tomcat
+apple
+apt
+applesauce
+temple
+laptop
